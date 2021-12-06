@@ -3,7 +3,7 @@
 # Emona's Visite kaartje 
 
 ## Beschrijving
-<!-- Voeg een link toe naar Github Pages 🌐--> http://127.0.0.1:5501/Index.html
+<!-- Voeg een link toe naar Github Pages 🌐--> 
 <!-- Voeg een mooie poster visual toe 📸 -->  <img width="818" alt="Schermafbeelding 2021-11-09 om 16 09 37" src="https://user-images.githubusercontent.com/90447045/140950552-65eb24b9-74b4-4f5a-9455-cbc6292bc264.png">
 
 Het visite kaartje van Emona Santiago. Je vindt daarin haar naam, geboorte datum, links naar sociale media en ook nog een paar leuke afbeeldingen. Mijn hobby's zijn designen en het bespelen van een paar instrumenten. Zo zie je ook dat ik van Filipijnse afkomst ben. 
