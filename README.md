@@ -2,9 +2,7 @@
 
 # Emona's Visite kaartje 
 Wordt altijd nog bijgewerkt.
-## Beschrijving
-<!-- Voeg een link toe naar Github Pages 🌐--> 
-<!-- Voeg een mooie poster visual toe 📸 -->
+
 ### versie 1.0
 <img width="818" alt="Schermafbeelding 2021-11-09 om 16 09 37" src="https://user-images.githubusercontent.com/90447045/140950552-65eb24b9-74b4-4f5a-9455-cbc6292bc264.png">
 
